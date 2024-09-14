@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Fira+Sans+Condensed:wght@500&display=swap');*{
+    margin: 0;
+    padding: 0;
+}
+h2{
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+h5, .btn,input {
+    font-family: 'Archivo Black', sans-serif;
+}
